@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "788822507571",
+    "firebase_url": "https://aprovapost-default-rtdb.firebaseio.com",
+    "project_id": "aprovapost",
+    "storage_bucket": "aprovapost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788822507571:android:a24877826e25caa2f36346",
+        "android_client_info": {
+          "package_name": "com.example.mktmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcEsTl2VuLFkRLTy2tq2XjoHm6M5R6Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788822507571-1b40c3himp35m52srr4cmms4qkvdm17c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mktmanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788822507571:android:0a43aa4888bc76b7f36346",
+        "android_client_info": {
+          "package_name": "com.spln.aprovapost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcEsTl2VuLFkRLTy2tq2XjoHm6M5R6Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788822507571-1b40c3himp35m52srr4cmms4qkvdm17c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mktmanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788822507571:android:e75bfbb658e53be1f36346",
+        "android_client_info": {
+          "package_name": "com.splneto.aprova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcEsTl2VuLFkRLTy2tq2XjoHm6M5R6Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788822507571-1b40c3himp35m52srr4cmms4qkvdm17c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mktmanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788822507571:android:61ff7d6283219943f36346",
+        "android_client_info": {
+          "package_name": "com.splneto.aprovaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcEsTl2VuLFkRLTy2tq2XjoHm6M5R6Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788822507571-2jv4gjm8auh6ndkcs5ru8co101mubsem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788822507571-1b40c3himp35m52srr4cmms4qkvdm17c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mktmanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
